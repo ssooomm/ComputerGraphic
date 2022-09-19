@@ -1,0 +1,47 @@
+﻿  final.cpp
+C:\3_1_컴그\final\final\final\final.cpp(21,43): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(22,43): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(24,46): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(111,19): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(134,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(136,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(138,50): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(139,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(140,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(172,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(183,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(189,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(195,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(201,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(209,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(213,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(232,34): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\3_1_컴그\final\final\final\final.cpp(234,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(237,36): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\3_1_컴그\final\final\final\final.cpp(242,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(243,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(251,35): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\3_1_컴그\final\final\final\final.cpp(253,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(256,36): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\3_1_컴그\final\final\final\final.cpp(261,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(262,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(270,34): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\3_1_컴그\final\final\final\final.cpp(272,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(275,36): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\3_1_컴그\final\final\final\final.cpp(280,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(281,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(289,35): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\3_1_컴그\final\final\final\final.cpp(291,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(294,36): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\3_1_컴그\final\final\final\final.cpp(299,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(300,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(314,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(319,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(321,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(329,36): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\3_1_컴그\final\final\final\final.cpp(364,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(375,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(379,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(381,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\3_1_컴그\final\final\final\final.cpp(401,31): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  final.vcxproj -> C:\3_1_컴그\final\final\Debug\final.exe
